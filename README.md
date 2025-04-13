@@ -26,4 +26,4 @@ This repository contains the implementation of custom data structures in Java wi
 
 ---
 
-Автор: Твоё Имя  
+Автор: Turarbek Baimukhammed
